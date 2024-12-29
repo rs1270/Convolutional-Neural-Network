@@ -29,7 +29,6 @@
 
 ### 7. Save and Deploy the Model
 - Saved the trained model for future use.
-- Optionally deployed the model on AWS or another platform for real-world applications.
 
 ### Results
 - Achieved good accuracy, precision, recall, and F1 score with minimal loss, demonstrating the model's effectiveness in image classification tasks.
